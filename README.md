@@ -27,7 +27,7 @@ FollowMyFrens stores your watchlist on chain so you'll never lose it, and has a 
 
 
 ### Still To Do ###
-There's a lot of addiitons and fixes to be made as this is only an MVP and there is much more that can be achieved. A short list includes:
+There are a lot of additions and fixes that can be made as this is only an MVP. I'm excited to develop this more and have a few thoughts already on what could be done, including:
 * Batching of customisations (less transactions and waiting time for the user)
 * Investigate the potential to add additional chains to watch, and add contract/token naming to further simplify the feed (similiar to the nickname function)
 * Unique contracts for each user (allow each user to deploy their own contract that they can choose to share or keep to themselves)
