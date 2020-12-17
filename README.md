@@ -36,4 +36,4 @@ There's a lot of addiitons and fixes to be made as this is only an MVP and there
 
 # Screenshots For Everyone!
 A few screenshots of the site in action.
-
+![Alt text](/readmeFiles/Fresh_Screen.png?raw=true "Before Wallet Connection")
