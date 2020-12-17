@@ -29,10 +29,11 @@ FollowMyFrens stores your watchlist on chain so you'll never lose it, and has a 
 ### Still To Do ###
 There's a lot of addiitons and fixes to be made as this is only an MVP and there is much more that can be achieved. A short list includes:
 * Batching of customisations (less transactions and waiting time for the user)
-* Updated UI (websites can always be more as aesthetically pleasing)
+* Investigate the potential to add additional chains to watch, and add contract/token naming to further simplify the feed (similiar to the nickname function)
 * Unique contracts for each user (allow each user to deploy their own contract that they can choose to share or keep to themselves)
+* Updated UI (websites can always be more as aesthetically pleasing)
 * Tidy up the code and make it even more readable (again, something that can always be worked on)
-* Win the MATIC competition (I'd love to deploy this on mainnet and host it on a dedicated website)
+* Use the Matic prize bounty (if fortunate enough) to continue to build FollowMyFrens and deploy it on mainnet on a dedicated website
 
 
 ### Screenshots For Everyone! ###
