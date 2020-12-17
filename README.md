@@ -17,7 +17,7 @@ Say you know some good traders or have identified the wallet of a whale. Add the
 
 *Case 2: Maybe there's been a hack and you want to follow the funds. You could add them to your Fren List and watch where the funds go. Bring out your inner detective!
 
-Video demo here: [Named Link](https://www.youtube.com/watch?v=KzlZC50X50c "Follow My Frens - Demo Video (Silent)")
+Video demo here: (https://www.youtube.com/watch?v=KzlZC50X50c "Follow My Frens - Demo Video (Silent)")
 
 
 # So, Why Matic?
