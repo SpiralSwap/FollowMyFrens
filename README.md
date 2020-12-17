@@ -36,6 +36,5 @@ There's a lot of addiitons and fixes to be made as this is only an MVP and there
 
 # Screenshots For Everyone!
 A few screenshots of the site in action.
-![Alt text](/readmeFiles/Fresh_Screen.png?raw=true "Before Wallet Connection")
 ![Alt text](/readmeFiles/Wallet_Connected.png?raw=true "After Wallet Connected (w/ Transaction showing)")
 ![Alt text](/readmeFiles/Updating_Nickname.png?raw=true "Modifying Wallet Nickname (w/ Transaction showing)")
